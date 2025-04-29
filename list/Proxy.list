@@ -31,6 +31,7 @@ DOMAIN-SUFFIX,api.themoviedb.org
 DOMAIN-SUFFIX,api.tmdb.org
 DOMAIN-SUFFIX,fsm.name
 DOMAIN-SUFFIX,connects.icu
+DOMAIN-SUFFIX,hhan.club
 
 IP-CIDR,8.8.8.8/32,no-resolve
 IP-CIDR,8.8.4.4/32,no-resolve
