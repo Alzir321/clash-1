@@ -33,6 +33,7 @@ DOMAIN-SUFFIX,ourbits.club
 DOMAIN-SUFFIX,desktop.docker.com
 DOMAIN-SUFFIX,docker.io
 DOMAIN-SUFFIX,audiences.me
+DOMAIN-SUFFIX,cinefiles.info
 
 IP-CIDR,8.8.8.8/32,no-resolve
 IP-CIDR,8.8.4.4/32,no-resolve
