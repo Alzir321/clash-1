@@ -5,6 +5,11 @@ IP-CIDR,104.236.69.0/24,no-resolve
 IP-CIDR,95.161.76.0/24,no-resolve
 IP-CIDR,142.251.215.0/24,no-resolve
 
+# 模型下载
+DOMAIN-SUFFIX,huggingface.co,hf-mirror.com
+DOMAIN-SUFFIX,hf-mirror.com,DIRECT
+
+
 # 国外DNS
 DOMAIN-SUFFIX,dns.google
 DOMAIN-SUFFIX,1dot1dot1dot1.cloudflare-dns.com
