@@ -35,6 +35,9 @@ DOMAIN-SUFFIX,fsm.name
 DOMAIN-SUFFIX,connects.icu
 DOMAIN-SUFFIX,desktop.docker.com
 DOMAIN-SUFFIX,docker.io
+DOMAIN-SUFFIX,ibiksoft.com
+DOMAIN-SUFFIX,projectpokemon.org
+
 
 IP-CIDR,8.8.8.8/32,no-resolve
 IP-CIDR,8.8.4.4/32,no-resolve
